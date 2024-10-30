@@ -419,22 +419,13 @@
       "grupoId": "8c809e4d-c997-484c-87c6-442459a6bc52"
     },
     {
-      "id": "",
-      "name": "Joselu",
-      "surname": "cervantes",
-      "age": "",
-      "email": "j@c",
-      "gender": "Masculino",
-      "group_id": "627a6f1c-a03e-42ce-8d06-eda5c13c093b"
-    },
-    {
-      "id": "",
-      "name": "Noelia",
-      "surname": "Quesada",
-      "age": "",
+      "id": "2b58",
+      "nombre": "Noelia",
+      "apellidos": "Quesada",
       "email": "n@q",
-      "gender": "Femenino",
-      "group_id": "627a6f1c-a03e-42ce-8d06-eda5c13c093b"
+      "edad": "",
+      "genero": "female",
+      "grupoId": "627a6f1c-a03e-42ce-8d06-eda5c13c093b"
     }
   ],
   "grupos": [
